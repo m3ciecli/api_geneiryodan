@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord-badges": "^0.0.0",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "node-fetch-commonjs": "^3.1.1",
+    "cors": "^2.8.5"
+  }
+}
