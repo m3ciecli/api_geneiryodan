@@ -13,4 +13,4 @@ client = new Client({ intents: [
 
 require("./src/index")(client)
 
-client.login("OTM3MDcwMDE0ODYxODAzNTcx.YfWYdQ.PJ8yPhR70G0P1XOv5bQYso_93qE")
+client.login("NDkxMjgyNzg2OTQ3MzAxMzg4.W5_UwA.Rl3KTCtj_k9R2Raqm_MfMtNpSoU")
